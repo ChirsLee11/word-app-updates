@@ -5,13 +5,88 @@
             "words": [
                 {
                     "word": "take part in the discussion",
-                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/take_part_in_the_discussion.jpg"
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/take_part_in_the_discussion.png"
                 },
                 {
                     "word": "join the membership",
-                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/join_the_membership.jpg"
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/join_the_membership.png"
                 },
-                // ... (其他单词内容)
+                {
+                    "word": "attend a cocktail event",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/attend_a_cocktail_event.png"
+                },
+                {
+                    "word": "participate in the marathon",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/participate_in_the_marathon.png"
+                },
+                {
+                    "word": "train for the upcoming Olympics",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/train_for_the_upcoming_Olympics.png"
+                },
+                {
+                    "word": "The soldiers are trained in combat skills",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/The_soldiers_are_trained_in_combat_skills.png"
+                },
+                {
+                    "word": "train the dog to fetch the newspaper",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/train_the_dog_to_fetch_the_newspaper.png"
+                },
+                {
+                    "word": "rehearse the lines",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/rehearse_the_lines.png"
+                },
+                {
+                    "word": "coach the young gymnasts",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/coach_the_young_gymnasts.png"
+                },
+                {
+                    "word": "Each snowflake is unique",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/Each_snowflake_is_unique.png"
+                },
+                {
+                    "word": "distinct appearance",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/distinct_appearance.png"
+                },
+                {
+                    "word": "The shop sells apples for $1 each",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/The_shop_sells_apples_for_$1_each.png"
+                },
+                {
+                    "word": "Every student must take the final exam",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/Every_student_must_take_the_final_exam.png"
+                },
+                {
+                    "word": "expend lat",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/expend_lat.png"
+                },
+                {
+                    "word": "ripples spread",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/ripples_spread.png"
+                },
+                {
+                    "word": "extend the meeting by 30 mins",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/extend_the_meeting_by_30_mins.png"
+                },
+                {
+                    "word": "rusty kitchen knife is very dull",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/rusty_kitchen_knife_is_very_dull.png"
+                },
+                {
+                    "word": "The frosted glass has dull surface",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/The_frosted_glass_has_dull_surface.png"
+                },
+                {
+                    "word": "glossy surface",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/glossy_surface.png"
+                },
+                {
+                    "word": "lustrous diamond",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/lustrous_diamond.png"
+                },
+                {
+                    "word": "shiny sea",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/shiny_sea.png"
+                }
             ]
         }
     ]
