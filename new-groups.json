@@ -1,0 +1,18 @@
+{
+    "groups": [
+        {
+            "groupName": "group10",
+            "words": [
+                {
+                    "word": "take part in the discussion",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/take_part_in_the_discussion.jpg"
+                },
+                {
+                    "word": "join the membership",
+                    "imageUrl": "https://raw.githubusercontent.com/ChirsLee11/word-app-updates/main/images/group10/join_the_membership.jpg"
+                },
+                // ... (其他单词内容)
+            ]
+        }
+    ]
+}
